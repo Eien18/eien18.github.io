@@ -19,6 +19,8 @@ I'm in **Manhattan**!
 
 ![Statue of Liberty](Statue of Liberty.jpg)
 
+- Williamsburg Bridge
+
 - Brooklyn Bridge
 
 - Times Square
