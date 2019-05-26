@@ -18,7 +18,7 @@ I'm in **Manhattan**!
 ![Times Square](Times Square.jpg)
 
 - Blue Note
-![Blue Note](Blue Note)
+![Blue Note](Blue Note.jpg)
 
 - Broadway musical
 
