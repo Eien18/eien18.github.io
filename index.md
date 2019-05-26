@@ -1,4 +1,5 @@
 
+
 # Tomoko
 
 I'm in **Manhattan**!
@@ -20,6 +21,8 @@ I'm in **Manhattan**!
 ![Statue of Liberty](Statue of Liberty.jpg)
 
 - Williamsburg Bridge
+
+![Williamsburg Bridge](Williamsburg Bridge.jpg)
 
 - Brooklyn Bridge
 
