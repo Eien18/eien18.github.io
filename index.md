@@ -27,4 +27,4 @@ I'm in **Manhattan**!
 - Broadway musical
 
 
-I was in [France](france.html)
+ [France](france.html)
