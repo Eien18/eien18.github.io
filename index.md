@@ -8,6 +8,10 @@ I'm in **Manhattan**!
 - New York Public Library
 
 ![New York Public Library](National library.jpg)
+- Statue  of Liberty
+
+![Statue of Liberty](Statue of Liberty.jpg)
+
 - Brooklyn Bridge
 
 - Times Square
