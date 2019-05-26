@@ -7,7 +7,7 @@ I'm in **Manhattan**!
 ![Bryant Park](Bryant park.jpg)
 - New York Public Library
 
-![New York Public Library](public library.jpg)
+![New York Public Library](National library.jpg)
 - Brooklyn Bridge
 
 - Times Square
