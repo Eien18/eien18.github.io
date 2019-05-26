@@ -5,4 +5,4 @@
 
 ![Eiffel Tower](received_1594987520635197.jpeg)
 
-[Manhattan](index.html)
+I'm in [Manhattan](index.html)
