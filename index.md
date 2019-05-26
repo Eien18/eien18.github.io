@@ -4,7 +4,7 @@
 
 I'm in **Manhattan**!
 
--Top of the Rock
+- Top of the Rock
 
 ![Top of the Rock](Top of the rock.jpg)
 
@@ -36,6 +36,6 @@ I'm in **Manhattan**!
 
 - Broadway musical
 
-![my fair lady](my fair lady.jpg)
+![my fair lady](my fair lady.jpeg)
 
 [Paris](france.html)
