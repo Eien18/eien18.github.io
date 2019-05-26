@@ -17,9 +17,11 @@ I'm in **Manhattan**!
 - Brooklyn Bridge
 
 - Times Square
+
 ![Times Square](Times Square.jpg)
 
 - Blue Note
+
 ![Blue Note](Blue Note.jpg)
 
 - Broadway musical
