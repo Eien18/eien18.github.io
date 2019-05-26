@@ -1,6 +1,11 @@
+
 # Tomoko
 
 I'm in **Manhattan**!
+
+-Top of the Rock
+
+![Top of the Rock](Top of the rock.jpg)
 
 - Bryant Park
 
@@ -26,5 +31,6 @@ I'm in **Manhattan**!
 
 - Broadway musical
 
+![my fair lady](my fair lady.jpg)
 
 [Paris](france.html)
