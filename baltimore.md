@@ -9,3 +9,6 @@ I'm in **Baltimore**
 
 [Manhattan](index.html)
 
+[New Orleans](newOrleans.html)
+
+[Paris](france.html)
