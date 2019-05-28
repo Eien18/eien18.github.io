@@ -22,7 +22,7 @@ I'm in **New Orleans**
 
 - House of Blues
 
-![House of blues](House of blues.jpg)
+![House of blues](House of Blues.jpg)
 
 - French Market
 
