@@ -24,7 +24,13 @@ I'm in **Manhattan**!
 
 ![Williamsburg Bridge](Williamsburg Bridge.jpg)
 
+- Manhattan Bridge
+
+![Manhattan bridge](Manhattan bridge.jpeg)
+
 - Brooklyn Bridge
+
+![Brooklyn bridge](Brooklyn bridge.jpeg)
 
 - Times Square
 
