@@ -10,7 +10,7 @@ I'm in **Baltimore**
 
 - George Peabody Library
 
-![George Peabody Library](George Peabody Library.jpg)
+![George Peabody Library](George Peabody Library.jpeg)
 
 
 [Manhattan](index.html)
