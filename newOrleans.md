@@ -31,3 +31,5 @@ I'm in **New Orleans**
 [Manhattan](index.html)
 
 [Paris](france.html)
+
+[Baltimore](baltimore.html)
