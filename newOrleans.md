@@ -28,8 +28,11 @@ I'm in **New Orleans**
 
 ![French Market](French Market.jpeg)
 
+
+
 [Manhattan](index.html)
+
+[Baltimore](baltimore.html)
 
 [Paris](france.html)
 
-[Baltimore](baltimore.html)
