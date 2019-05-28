@@ -2,9 +2,15 @@ I'm in **Baltimore**
 
 - Top of the World
 
+![Top of the world](Top of the world.jpg)
+
 - Inner Harbor
 
+![Inner Harbor](Inner Harbor.jpg)
+
 - George Peabody Library
+
+![George Peabody Library](George Peabody Library.jpg)
 
 
 [Manhattan](index.html)
