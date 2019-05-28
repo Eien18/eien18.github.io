@@ -21,3 +21,6 @@ Moulin Rouge
 [Manhattan](index.html)
 
 [New Orleans](newOrleans.html)
+
+[Baltimore](baltimore.html)
+
