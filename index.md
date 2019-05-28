@@ -44,6 +44,8 @@ I'm in **Manhattan**
 
 ![my fair lady](my fair lady.jpeg)
 
+[Baltimore](baltimore.html)
+
 
 [New Orleans](newOrleans.html)
 
