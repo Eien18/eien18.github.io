@@ -2,7 +2,7 @@
 
 # Tomoko
 
-I'm in **Manhattan**!
+I'm in **Manhattan**
 
 - Top of the Rock
 
