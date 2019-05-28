@@ -1,2 +1,0 @@
-- food in Manhattan
-- food in Paris
