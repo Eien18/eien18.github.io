@@ -2,6 +2,8 @@ I'm in **New Orleans**
 
 - Musical Legends Park
 
+![Musical Legends Park](Musical Legends Park.jpg)
+
 - The Jazz Playhouse
 
 ![The Jazz playhouse](The Jazz Playhouse.jpeg)
@@ -12,9 +14,20 @@ I'm in **New Orleans**
 
 - Mississippi River
 
+![Mississippi River](Mississippi River.jpg)
 
-- French Market
 - The Maison
 
+![The Maison](The Maison.jpeg)
+
+- House of Blues
+
+![House of blues](House of blues.jpg)
+
+- French Market
+
+![French Market](French Market.jpeg)
+
 [Manhattan](index.html)
+
 [Paris](france.html)
