@@ -49,4 +49,6 @@ I'm in **Manhattan**
 
 [New Orleans](newOrleans.html)
 
+[Washington](washington.html)
+
 [Paris](france.html)
