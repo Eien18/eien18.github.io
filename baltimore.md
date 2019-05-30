@@ -17,4 +17,6 @@ I'm in **Baltimore**
 
 [New Orleans](newOrleans.html)
 
+[Washington](washington.html)
+
 [Paris](france.html)
