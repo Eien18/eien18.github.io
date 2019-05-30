@@ -10,15 +10,15 @@ I'm in **paris**
 
 ![Eiffel Tower](Eiffel tower.jpeg)
 
-Musée du Louvre
+- Musée du Louvre
 
 ![Musée du Louvre](Musée du Louvre.jpg)
 
-Cathédrale Notre-Dame de Paris
+- Cathédrale Notre-Dame de Paris
 
 ![Cathédrale Notre-Dame de Paris](Cathédrale Notre-Dame de Paris.jpeg)
 
-Moulin Rouge
+- Moulin Rouge
 
 ![Moulin Rouge](Moulin Rouge.jpg)
 
