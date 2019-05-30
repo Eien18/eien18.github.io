@@ -42,7 +42,7 @@ I'm in **Manhattan**
 
 - Broadway musical
 
-![my fair lady](my fair lady.jpeg)
+![my fair lady](My fair lady.jpeg)
 
 [Baltimore](baltimore.html)
 
