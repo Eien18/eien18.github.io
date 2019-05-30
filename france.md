@@ -8,11 +8,15 @@ I'm in **paris**
 
 - Eiffel Tower
 
-![Eiffel Tower](received_1594987520635197.jpeg)
+![Eiffel Tower](Eiffel tower.jpeg)
 
 Musée du Louvre
 
 ![Musée du Louvre](Musée du Louvre.jpg)
+
+Cathédrale Notre-Dame de Paris
+
+![Cathédrale Notre-Dame de Paris](Cathédrale Notre-Dame de Paris.jpeg)
 
 Moulin Rouge
 
