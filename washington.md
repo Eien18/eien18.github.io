@@ -14,3 +14,11 @@ I'm in **Washington**
 
 ![Lincoln Memorial](Lincoln Memorial.jpeg)
 
+
+[Manhattan](index.html)
+
+[Baltimore](baltimore.html)
+
+[New Orleans](newOrleans.html)
+
+[Paris](france.html)
