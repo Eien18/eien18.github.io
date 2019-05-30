@@ -1,3 +1,5 @@
+# TOMOKO
+
 I'm in **New Orleans**
 
 - Musical Legends Park
@@ -33,6 +35,8 @@ I'm in **New Orleans**
 [Manhattan](index.html)
 
 [Baltimore](baltimore.html)
+
+[Washington](washington.html)
 
 [Paris](france.html)
 
