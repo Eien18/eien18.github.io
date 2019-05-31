@@ -1,4 +1,4 @@
-# Tomoko
+# Tomoko <img src="tomoko.png" align="bottom" width="50px" />
 
 I'm in **Paris**
 
