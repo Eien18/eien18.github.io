@@ -1,7 +1,7 @@
 
 
 # Tomoko
-![Tomoko](Tomoko icon.jpg)
+![Tomoko](Tomoko icon.png)
 
 I'm in **Manhattan**
 
