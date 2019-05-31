@@ -1,6 +1,6 @@
 # Tomoko
 
-I'm in **paris**
+I'm in **Paris**
 
 - Arc de Triomphe
 
