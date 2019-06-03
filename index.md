@@ -44,8 +44,11 @@ I'm in **Manhattan**
 
 ![my fair lady](My fair lady.jpeg)
 
-[Baltimore](baltimore.html)
+- Governors Island
 
+![Governors Island](Governors Island.jpeg)
+
+[Baltimore](baltimore.html)
 
 [New Orleans](newOrleans.html)
 
