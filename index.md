@@ -1,6 +1,6 @@
 
 
-# Tomoko <img src="tomoko.png" align="bottom" width="50px" />
+# Tomoko <img src="tomoko.png" alt="Momo" width="50" />
 
 I'm in **Manhattan**
 
